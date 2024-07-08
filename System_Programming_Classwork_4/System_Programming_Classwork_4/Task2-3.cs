@@ -7,20 +7,20 @@ namespace System_Programming_Classwork_4
 {
     public partial class Task2 : Form
     {
+        private bool isPause = false;
+        private bool isStop = false;
+
+        private ProgressBar[] pBars = new ProgressBar[3];
+
+
         public Task2()
         {
             InitializeComponent();
+            createProgressBars();
         }
 
-        private void startCopyingBtn_Click(object sender, EventArgs e)
+        private void createProgressBars()
         {
-            Run();
-        }
-
-        private void Run()
-        {
-            ProgressBar[] pBars = new ProgressBar[3];
-
             for (int i = 0; i < pBars.Length; i++)
             {
                 pBars[i] = new ProgressBar();
@@ -30,10 +30,19 @@ namespace System_Programming_Classwork_4
                 pBars[i].Height = 30;
                 Controls.Add(pBars[i]);
             }
+        }
 
+
+        // Start Button
+        private void startCopyingBtn_Click(object sender, EventArgs e)
+        {
+            if (pBars[0].Value != 0) return;
+
+            isPause = false;
+            isStop = false;
 
             Thread[] threads = new Thread[3];
-            
+
             for (var i = 0; i < threads.Length; i++)
             {
                 var i1 = i;
@@ -41,13 +50,9 @@ namespace System_Programming_Classwork_4
                 threads[i].Start();
             }
 
-            threads[0].Priority = ThreadPriority.Lowest;
-            threads[1].Priority = ThreadPriority.Normal;
-            threads[2].Priority = ThreadPriority.Highest;
-
-            foreach (var t in threads)
+            for (int i = 0; i < 3; i++)
             {
-                t.Join();
+                threads[i].Join();
             }
         }
 
@@ -73,17 +78,48 @@ namespace System_Programming_Classwork_4
         {
             Random rnd = new Random();
 
-            int steps = 100;
-            pBar.Maximum = steps;
+            pBar.Maximum = 100;
             pBar.Value = 0;
 
-            for (int i = 0; i <= steps; i++)
+            for (int i = 0; i <= 100; i++)
             {
+                if (isStop)
+                {
+                    UpdatePBar(pBar, 0);
+                    break;
+                }
+
+                while (isPause)
+                {
+                    await Task.Delay(1000);
+                }
+
                 await Task.Delay(rnd.Next(500)); // Simulate work being done
                 UpdatePBar(pBar, i);
             }
         }
 
+
+
+
+        // Pause Button
+        private void pauseBtn_Click(object sender, EventArgs e)
+        {
+            isPause = !isPause;
+        }
+
+
+        // Stop Button
+        private void stopBtn_Click(object sender, EventArgs e)
+        {
+            isStop = !isStop;
+        }
+
+
+
+
+
+        // Update Progress Bar
         private void UpdatePBar(ProgressBar pBar, int value)
         {
             if (pBar.InvokeRequired)
@@ -95,5 +131,6 @@ namespace System_Programming_Classwork_4
                 pBar.Value = value;
             }
         }
+
     }
 }

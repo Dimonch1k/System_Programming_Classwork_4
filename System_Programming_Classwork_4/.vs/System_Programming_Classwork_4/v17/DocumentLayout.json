@@ -3,30 +3,46 @@
   "WorkspaceRootPath": "C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_4\\System_Programming_Classwork_4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F6CDD3A5-C094-49AD-8B44-8BC6ECFED8DE}|System_Programming_Classwork_4\\System_Programming_Classwork_4.csproj|c:\\users\\dmytro\\desktop\\git\\system_programming_classwork_4\\system_programming_classwork_4\\system_programming_classwork_4\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6CDD3A5-C094-49AD-8B44-8BC6ECFED8DE}|System_Programming_Classwork_4\\System_Programming_Classwork_4.csproj|solutionrelative:system_programming_classwork_4\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F6CDD3A5-C094-49AD-8B44-8BC6ECFED8DE}|System_Programming_Classwork_4\\System_Programming_Classwork_4.csproj|c:\\users\\dmytro\\desktop\\git\\system_programming_classwork_4\\system_programming_classwork_4\\system_programming_classwork_4\\task8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6CDD3A5-C094-49AD-8B44-8BC6ECFED8DE}|System_Programming_Classwork_4\\System_Programming_Classwork_4.csproj|solutionrelative:system_programming_classwork_4\\task8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CDD3A5-C094-49AD-8B44-8BC6ECFED8DE}|System_Programming_Classwork_4\\System_Programming_Classwork_4.csproj|c:\\users\\dmytro\\desktop\\git\\system_programming_classwork_4\\system_programming_classwork_4\\system_programming_classwork_4\\task7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F6CDD3A5-C094-49AD-8B44-8BC6ECFED8DE}|System_Programming_Classwork_4\\System_Programming_Classwork_4.csproj|solutionrelative:system_programming_classwork_4\\task7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CDD3A5-C094-49AD-8B44-8BC6ECFED8DE}|System_Programming_Classwork_4\\System_Programming_Classwork_4.csproj|c:\\users\\dmytro\\desktop\\git\\system_programming_classwork_4\\system_programming_classwork_4\\system_programming_classwork_4\\task8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F6CDD3A5-C094-49AD-8B44-8BC6ECFED8DE}|System_Programming_Classwork_4\\System_Programming_Classwork_4.csproj|solutionrelative:system_programming_classwork_4\\task8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CDD3A5-C094-49AD-8B44-8BC6ECFED8DE}|System_Programming_Classwork_4\\System_Programming_Classwork_4.csproj|c:\\users\\dmytro\\desktop\\git\\system_programming_classwork_4\\system_programming_classwork_4\\system_programming_classwork_4\\task2-3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6CDD3A5-C094-49AD-8B44-8BC6ECFED8DE}|System_Programming_Classwork_4\\System_Programming_Classwork_4.csproj|solutionrelative:system_programming_classwork_4\\task2-3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CDD3A5-C094-49AD-8B44-8BC6ECFED8DE}|System_Programming_Classwork_4\\System_Programming_Classwork_4.csproj|c:\\users\\dmytro\\desktop\\git\\system_programming_classwork_4\\system_programming_classwork_4\\system_programming_classwork_4\\task7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6CDD3A5-C094-49AD-8B44-8BC6ECFED8DE}|System_Programming_Classwork_4\\System_Programming_Classwork_4.csproj|solutionrelative:system_programming_classwork_4\\task7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CDD3A5-C094-49AD-8B44-8BC6ECFED8DE}|System_Programming_Classwork_4\\System_Programming_Classwork_4.csproj|C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_4\\System_Programming_Classwork_4\\system_programming_classwork_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6CDD3A5-C094-49AD-8B44-8BC6ECFED8DE}|System_Programming_Classwork_4\\System_Programming_Classwork_4.csproj|solutionrelative:system_programming_classwork_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CDD3A5-C094-49AD-8B44-8BC6ECFED8DE}|System_Programming_Classwork_4\\System_Programming_Classwork_4.csproj|c:\\users\\dmytro\\desktop\\git\\system_programming_classwork_4\\system_programming_classwork_4\\system_programming_classwork_4\\task2-3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F6CDD3A5-C094-49AD-8B44-8BC6ECFED8DE}|System_Programming_Classwork_4\\System_Programming_Classwork_4.csproj|solutionrelative:system_programming_classwork_4\\task2-3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F6CDD3A5-C094-49AD-8B44-8BC6ECFED8DE}|System_Programming_Classwork_4\\System_Programming_Classwork_4.csproj|c:\\users\\dmytro\\desktop\\git\\system_programming_classwork_4\\system_programming_classwork_4\\system_programming_classwork_4\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6CDD3A5-C094-49AD-8B44-8BC6ECFED8DE}|System_Programming_Classwork_4\\System_Programming_Classwork_4.csproj|solutionrelative:system_programming_classwork_4\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6CDD3A5-C094-49AD-8B44-8BC6ECFED8DE}|System_Programming_Classwork_4\\System_Programming_Classwork_4.csproj|c:\\users\\dmytro\\desktop\\git\\system_programming_classwork_4\\system_programming_classwork_4\\system_programming_classwork_4\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F6CDD3A5-C094-49AD-8B44-8BC6ECFED8DE}|System_Programming_Classwork_4\\System_Programming_Classwork_4.csproj|C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_4\\System_Programming_Classwork_4\\system_programming_classwork_4\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F6CDD3A5-C094-49AD-8B44-8BC6ECFED8DE}|System_Programming_Classwork_4\\System_Programming_Classwork_4.csproj|solutionrelative:system_programming_classwork_4\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6CDD3A5-C094-49AD-8B44-8BC6ECFED8DE}|System_Programming_Classwork_4\\System_Programming_Classwork_4.csproj|c:\\users\\dmytro\\desktop\\git\\system_programming_classwork_4\\system_programming_classwork_4\\system_programming_classwork_4\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F6CDD3A5-C094-49AD-8B44-8BC6ECFED8DE}|System_Programming_Classwork_4\\System_Programming_Classwork_4.csproj|solutionrelative:system_programming_classwork_4\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6CDD3A5-C094-49AD-8B44-8BC6ECFED8DE}|System_Programming_Classwork_4\\System_Programming_Classwork_4.csproj|c:\\users\\dmytro\\desktop\\git\\system_programming_classwork_4\\system_programming_classwork_4\\system_programming_classwork_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6CDD3A5-C094-49AD-8B44-8BC6ECFED8DE}|System_Programming_Classwork_4\\System_Programming_Classwork_4.csproj|solutionrelative:system_programming_classwork_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 256,
+      "VerticalTabListWidth": 216,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
@@ -34,7 +50,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_4\\System_Programming_Classwork_4\\System_Programming_Classwork_4\\Program.cs",
               "RelativeDocumentMoniker": "System_Programming_Classwork_4\\Program.cs",
@@ -49,52 +65,101 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Task2.cs",
-              "DocumentMoniker": "C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_4\\System_Programming_Classwork_4\\System_Programming_Classwork_4\\Task2.cs",
-              "RelativeDocumentMoniker": "System_Programming_Classwork_4\\Task2.cs",
-              "ToolTip": "C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_4\\System_Programming_Classwork_4\\System_Programming_Classwork_4\\Task2.cs",
-              "RelativeToolTip": "System_Programming_Classwork_4\\Task2.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAowC0AAAA5AAAA",
+              "Title": "Task8.cs",
+              "DocumentMoniker": "C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_4\\System_Programming_Classwork_4\\System_Programming_Classwork_4\\Task8.cs",
+              "RelativeDocumentMoniker": "System_Programming_Classwork_4\\Task8.cs",
+              "ToolTip": "C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_4\\System_Programming_Classwork_4\\System_Programming_Classwork_4\\Task8.cs",
+              "RelativeToolTip": "System_Programming_Classwork_4\\Task8.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAowBwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T21:51:47.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Task8.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_4\\System_Programming_Classwork_4\\System_Programming_Classwork_4\\Task8.cs",
+              "RelativeDocumentMoniker": "System_Programming_Classwork_4\\Task8.cs",
+              "ToolTip": "C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_4\\System_Programming_Classwork_4\\System_Programming_Classwork_4\\Task8.cs [Design]",
+              "RelativeToolTip": "System_Programming_Classwork_4\\Task8.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T21:44:15.055Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Task7.cs",
+              "DocumentMoniker": "C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_4\\System_Programming_Classwork_4\\System_Programming_Classwork_4\\Task7.cs",
+              "RelativeDocumentMoniker": "System_Programming_Classwork_4\\Task7.cs",
+              "ToolTip": "C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_4\\System_Programming_Classwork_4\\System_Programming_Classwork_4\\Task7.cs",
+              "RelativeToolTip": "System_Programming_Classwork_4\\Task7.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAowAsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T18:18:12.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Task7.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_4\\System_Programming_Classwork_4\\System_Programming_Classwork_4\\Task7.cs",
+              "RelativeDocumentMoniker": "System_Programming_Classwork_4\\Task7.cs",
+              "ToolTip": "C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_4\\System_Programming_Classwork_4\\System_Programming_Classwork_4\\Task7.cs [Design]",
+              "RelativeToolTip": "System_Programming_Classwork_4\\Task7.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T18:02:35.984Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Task2-3.cs",
+              "DocumentMoniker": "C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_4\\System_Programming_Classwork_4\\System_Programming_Classwork_4\\Task2-3.cs",
+              "RelativeDocumentMoniker": "System_Programming_Classwork_4\\Task2-3.cs",
+              "ToolTip": "C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_4\\System_Programming_Classwork_4\\System_Programming_Classwork_4\\Task2-3.cs",
+              "RelativeToolTip": "System_Programming_Classwork_4\\Task2-3.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAA0wA8AAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-01T17:25:10.122Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Task2.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_4\\System_Programming_Classwork_4\\System_Programming_Classwork_4\\Task2.cs",
-              "RelativeDocumentMoniker": "System_Programming_Classwork_4\\Task2.cs",
-              "ToolTip": "C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_4\\System_Programming_Classwork_4\\System_Programming_Classwork_4\\Task2.cs [Design]",
-              "RelativeToolTip": "System_Programming_Classwork_4\\Task2.cs [Design]",
+              "DocumentIndex": 6,
+              "Title": "Task2-3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_4\\System_Programming_Classwork_4\\System_Programming_Classwork_4\\Task2-3.cs",
+              "RelativeDocumentMoniker": "System_Programming_Classwork_4\\Task2-3.cs",
+              "ToolTip": "C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_4\\System_Programming_Classwork_4\\System_Programming_Classwork_4\\Task2-3.cs [Design]",
+              "RelativeToolTip": "System_Programming_Classwork_4\\Task2-3.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-01T17:20:19.481Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Task1.cs",
               "DocumentMoniker": "C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_4\\System_Programming_Classwork_4\\System_Programming_Classwork_4\\Task1.cs",
               "RelativeDocumentMoniker": "System_Programming_Classwork_4\\Task1.cs",
               "ToolTip": "C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_4\\System_Programming_Classwork_4\\System_Programming_Classwork_4\\Task1.cs",
               "RelativeToolTip": "System_Programming_Classwork_4\\Task1.cs",
-              "ViewState": "AQIAADkAAAAAAAAAAAAmwGIAAAANAAAA",
+              "ViewState": "AQIAACMAAAAAAAAAAAA9wDQAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-01T17:02:22.506Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "Task1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_4\\System_Programming_Classwork_4\\System_Programming_Classwork_4\\Task1.cs",
               "RelativeDocumentMoniker": "System_Programming_Classwork_4\\Task1.cs",
               "ToolTip": "C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_4\\System_Programming_Classwork_4\\System_Programming_Classwork_4\\Task1.cs [Design]",
               "RelativeToolTip": "System_Programming_Classwork_4\\Task1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T17:02:10.552Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-07-01T17:02:10.552Z"
             }
           ]
         }

@@ -13,7 +13,7 @@ namespace System_Programming_Classwork_4
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Task2());
+            Application.Run(new Task8());
         }
     }
 }
